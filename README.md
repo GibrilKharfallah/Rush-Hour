@@ -187,8 +187,3 @@ CarGameProject/
 ├── CarGameProject.iml
 └── README.md                 # Project README
 ```
-
-### **Credits**
-- **Gibril KHARFALLAH**: Graphics, Obstacles Design, and Scoring System.
-- **Rayan HABES**: Game Logic, and Physics Implementations.
-- **Junior NUMEN**: UI/UX Design, Animations, and Game Interface.
