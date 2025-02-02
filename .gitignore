@@ -1,0 +1,28 @@
+# Compiled Java files
+/bin/
+
+#Classes
+*.class
+
+# IDE-specific files
+*.iml
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# JavaFX SDK or other large libraries
+/lib/
+
+# Output files
+/out/
+
+# Sensitive environment or configuration files
+*.env
+config.json
